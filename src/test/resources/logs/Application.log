@@ -1,1 +1,11 @@
-27/12/2019 14:49:27 devpinoyLogger Navigated to the site : https://www.zoho.com/
+28/12/2019 12:19:42 devpinoyLogger Navigated to the site : https://www.zoho.com/
+28/12/2019 12:19:46 devpinoyLogger Clicking on the element : LoginLink_CSS
+28/12/2019 12:19:47 devpinoyLogger Entering value : lavinavyas.2018@gmail.com in a locator : username_XPATH
+28/12/2019 12:19:47 devpinoyLogger Clicking on the element : clickNextBtn_XPATH
+28/12/2019 12:19:48 devpinoyLogger Entering value : Discover@123 in a locator : password_XPATH
+28/12/2019 12:19:48 devpinoyLogger Clicking on the element : signInBtn_XPATH
+28/12/2019 12:19:59 devpinoyLogger Clicking on the element : Select_CRM_APP_XPATH
+28/12/2019 12:19:59 devpinoyLogger Clicking on the element : AccountsLink_CSS
+28/12/2019 12:20:02 devpinoyLogger Clicking on the element : AccountsLink_CSS
+28/12/2019 12:20:02 devpinoyLogger Clicking on the element : Create_New_Account_Btn_CSS
+28/12/2019 12:20:04 devpinoyLogger Entering value : Raman in a locator : AccountName_CSS

@@ -17,6 +17,7 @@ public class AccountsPage extends Base {
 	{
 		click("AccountsLink_CSS");
 		
+		System.out.println("Accounts link clicked");
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		
 		click("Create_New_Account_Btn_CSS");
